@@ -1,0 +1,15 @@
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\obj\Debug\net6.0\homeworkC8_03.csproj.AssemblyReference.cache
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\obj\Debug\net6.0\homeworkC8_03.GeneratedMSBuildEditorConfig.editorconfig
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\obj\Debug\net6.0\homeworkC8_03.AssemblyInfoInputs.cache
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\obj\Debug\net6.0\homeworkC8_03.AssemblyInfo.cs
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\obj\Debug\net6.0\homeworkC8_03.csproj.CoreCompileInputs.cache
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\bin\Debug\net6.0\homeworkC8_03.exe
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\bin\Debug\net6.0\homeworkC8_03.deps.json
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\bin\Debug\net6.0\homeworkC8_03.runtimeconfig.json
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\bin\Debug\net6.0\homeworkC8_03.dll
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\bin\Debug\net6.0\homeworkC8_03.pdb
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\obj\Debug\net6.0\homeworkC8_03.dll
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\obj\Debug\net6.0\refint\homeworkC8_03.dll
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\obj\Debug\net6.0\homeworkC8_03.pdb
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\obj\Debug\net6.0\homeworkC8_03.genruntimeconfig.cache
+D:\ноут\GeekBrains\homeworkC8\homeworkC8_03\obj\Debug\net6.0\ref\homeworkC8_03.dll
